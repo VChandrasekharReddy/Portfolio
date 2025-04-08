@@ -1540,20 +1540,18 @@ body {
         
     }
     #ibtn0{
-        background-image: url(/images/onestop.jpeg);
+        background-image: url(/images/codegnan.png);
     }
     #ibtn1{
-        background-image: url(/images/is.jpeg);
-    }
-    #ibtn2{
         background-image: url(/images/datavally.jpg);
     }
+    #ibtn2{
+        background-image: url(/images/is.jpeg);
+    }
     #ibtn3{
-        background-image: url(/images/mi.jpeg);
+        background-image: url(/images/onestop.jpeg);
     }
-    #ibtn4{
-        background-image: url(/images/iidt.jpeg);
-    }
+
     
     .visible {
         opacity: 1;
